@@ -89,8 +89,23 @@ h3{
     }
     .card{
         width: 90vw;
-        height: 95vh;
+        height: 100vh;
         margin-top: 10px;
         margin-bottom: 10px;
+    }
+    #btn-2{
+        padding: 15px 70px 15px;
+    }
+    #btn-3{
+        padding: 15px 115px 15px;
+        margin-top: 15px;
+    }
+    #btn-4{
+        padding: 15px 120px 15px;
+        margin-top: 15px;
+    }
+    #btn-5{
+        padding: 15px 110px 15px;
+        margin-top: 15px;
     }
 }
