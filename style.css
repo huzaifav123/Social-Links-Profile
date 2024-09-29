@@ -67,12 +67,12 @@ h3{
 }
 #btn-3{
     margin-top: 15px;
-    padding: 15px 100px 15px;
+    padding: 15px 90px 15px;
 } 
 
 #btn-4, #btn-5{
     margin-top: 15px;
-    padding: 15px 125px 15px;
+    padding: 15px 90px 15px;
 }
 #btn-1:hover, #btn-2:hover, #btn-3:hover, #btn-4:hover, #btn-5:hover{
     background-color: #c4f82a;
