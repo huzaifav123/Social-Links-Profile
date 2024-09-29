@@ -62,7 +62,8 @@ h3{
     cursor: pointer;
 }
 #btn-2{
-    padding: 15px 135px 15px;
+    font-size: 14px;
+    padding: 15px 130px 15px;
     margin-top: 15px;
 }
 #btn-3, #btn-4, #btn-5{
